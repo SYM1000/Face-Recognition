@@ -36,7 +36,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Regards 🎈
-With ❤️ from 🇲🇽 by Santiago Yeomans
+With ❤️ from 🇲🇽 by **Santiago Yeomans**
 
 ### Follow Me 👇
 * [LinkedIn](https://www.linkedin.com/in/santiago-yeomans/) - Follow me on LinkedIn!

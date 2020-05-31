@@ -2,7 +2,7 @@
 
 Detect people using python
 
-## Face Recognition
+## Face Recognition 🙋‍♂️
 
 Recognize known faces and display the name
 
@@ -15,7 +15,7 @@ python3 recognition.py
 ### Screenshots
 
 
-## Face Detection
+## Face Detection 📷
 
 Detect any face in front of camera
 

@@ -27,6 +27,7 @@ python3 face_detection.py
 
 ### Screenshots
 
+[](https://github.com/SYM1000/Face-Recognition/blob/master/Screenshots/face_detection.gif)
 
 
 ## Contributing
